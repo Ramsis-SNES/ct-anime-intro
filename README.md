@@ -33,7 +33,7 @@ Initially, I didn't bother to eliminate the WRAM buffer. Later on, I decided to 
 
 ## HOW TO USE BPS FILES
 
-Read your emulator's docs to check whether it supports real-time BPS patching. Or, find and download a tool named Floating IPS, or flips for short. It's self-explanatory and easy to use. The source ROM must not have a copier header (file size: exactly 4.194.304 bytes, checksum: 0x788C, CRC32: 2D206BF7, rename it to ct_msu1.sfc).
+Read your emulator's docs to check whether it supports real-time BPS patching. Or, find and download a tool named Floating IPS, or flips for short. It's self-explanatory and easy to use. The source ROM must not have a copier header (file size: exactly 4,194,304 bytes, checksum: 0x788C, CRC32: 2D206BF7, rename it to ct_msu1.sfc).
 
 ## QUESTIONS, COMMENTS ...
 
